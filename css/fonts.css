@@ -1,0 +1,41 @@
+/* Exo 2 */
+
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../fonts/Exo_2/Exo2.0-Light.otf);
+}
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/Exo_2/Exo2.0-Regular.otf);
+}
+@font-face {
+  font-family: 'Exo 2';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/Exo_2/Exo2.0-Italic.otf);
+}
+
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../fonts/Exo_2/Exo2.0-Bold.otf);
+}
+
+/* Cocon */
+
+@font-face {
+  font-family: 'Cocon';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/Cocon-Regular_font.otf);
+}
